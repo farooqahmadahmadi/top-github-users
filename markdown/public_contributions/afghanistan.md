@@ -7670,6 +7670,20 @@ There are `928 users`  in Afghanistan. You need at least `2 followers` to be on 
 		<td>kabul, afghanistan</td>
 		<td>1</td>
 	</tr>
+
+	<tr>
+		<td>583</td>
+		<td>
+			<a href="https://github.com/farooqahmadahmadi">
+			  <img src="https://avatars.githubusercontent.com/u/180774067?s=96&amp;v=4" alt="@farooqahmadahmadi" size="48" height="48" width="48" data-view-component="true" class="avatar circle mr-3" />
+			</a><br/>
+			Farooq Ahmad Ahmadi
+		</td>
+		<td>ITP Academy</td>
+		<td>No Twitter Username</td>
+		<td>Ghazni - Afghanistan</td>
+		<td>1300</td>
+	</tr>
 </table>
 
 ### 🚀 Share on
