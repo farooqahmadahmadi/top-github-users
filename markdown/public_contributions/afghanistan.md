@@ -117,6 +117,21 @@ There are `931 users`  in Afghanistan. You need at least `2 followers` to be on 
 		<td>Kabul, Afghanistan</td>
 		<td>5158</td>
 	</tr>
+
+	<tr>
+		<td>2</td>
+		<td>
+			<a href="https://github.com/farooqahmadahmadi">
+				<img src="https://avatars.githubusercontent.com/u/180774067?s=400&u=b88e1771e2448e096d6d4dafcb5398f91c4f26b4&v=4" width="24" alt="Avatar of Farooq Ahmad Ahmaid"> Farooq Ahmad Ahmadi
+			</a><br/>
+			Farooq Ahmad Ahmadi
+		</td>
+		<td>mas-construction.com</td>
+		<td>No Twitter Username</td>
+		<td>Ghazni Province, Afghanistan</td>
+		<td>1400</td>
+	</tr>
+	
 	<tr>
 		<td>2</td>
 		<td>
